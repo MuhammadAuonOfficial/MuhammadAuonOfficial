@@ -20,7 +20,6 @@ const Me = {
     ],
     programmingLanguages: [
         'Javascript',
-        'PHP',
         'Python',
         'C++',
         'C#'
@@ -33,7 +32,6 @@ const Me = {
             'Material UI'
         ],
         backEnd: [
-            'Laravel',
             'Nodejs'
         ],
         databases: [
